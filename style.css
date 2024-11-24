@@ -19,7 +19,7 @@ opacity: 0px;
 #headtext {
     width: 1440px;
     height: 54px;
-    font-family: Lora;
+    font-family: 'Lora', serif;
 font-size: 40px;
 font-weight: 400;
 line-height: 54px;
@@ -39,9 +39,7 @@ display: flex;
 #maskgroup1 {
     width: 379px;
 height: 617.89px;
-top: 41px;
-left: 325px;
-gap: 0px;
+padding-top: 6px;
 border-radius: 16px 0px 0px 0px;
 opacity: 0px;
 }
@@ -58,12 +56,9 @@ opacity: 0px;
 #maskgroup2 {
     width: 379px;
     height: 617.89px;
-    top: 41px;
-    left: 736px;
-    gap: 0px;
-    border-radius: 16px 16px 16px 16px;
-    opacity: 0px;
-    padding-left: 20px;
+    border-radius: 16px;
+    padding-top: 6px;
+    padding-left: 31px;
     overflow: hidden;
     
 }
@@ -328,6 +323,8 @@ border-radius: 24px ;
 height: 800px;
 margin-left: 0.5px;
 border-radius: 24px;
-
-
+}
+#text {
+    width: 1440px;
+    height: 700px;
 }
