@@ -1,15 +1,11 @@
 #container {
     width: 3854px;
 height: 3272px;
-top: -2201px;
-left: 2825px;
-gap: 0px;
-opacity: 0px;
 background: #FFFFFF;
 }
 #frame1 {
-    width: Hug (1,440px)px;
-height: Hug (962px)px;
+    width:1440px;
+height: 962px;
 top: 311px;
 left: 487px;
 gap: 8px;
@@ -31,7 +27,6 @@ text-align: center;
     width: 1440px;
 height: 700px;
 padding: 41px 325px 41.11px 325px;
-gap: 0px;
 opacity: 0px;
 display: flex;
 }
@@ -62,13 +57,8 @@ opacity: 0px;
     
 }
 #img2 {
-    width: 504px;
-height: 617.89px;
-top: 41px;
-left: 736px;
-gap: 0px;
-border-radius: 16px 16px 16px 16px;
-opacity: 0px;
+  
+border-radius: 16px ;
 background: #D9D9D9;
 }
 #textfooter1 {
@@ -125,16 +115,16 @@ background: var(--Color-2, #F4F0EA);
 #imghero2-1 {
     width: 587px;
 height: 458px;
-margin-top: 294px;
+margin-top: 300px;
 padding: 40px;
-padding-top: 0;
+padding-bottom: 0;
 }
 
 #ttext1{
     width: 587px;
 height: 74px;
 margin: 0;
-font-family: Lora;
+font-family: 'Lora', serif;
 font-size: 64px;
 font-weight: 400;
 line-height: 74px;
@@ -151,8 +141,7 @@ text-decoration-skip-ink: none;
 #imghero2-1-1 {
     width: 587px;
     height: 458px;
-    padding: 24px;
-    padding-top: 0;
+    padding: 0;
 }
 #texthero2-2 {
     width: 587px;
@@ -163,7 +152,7 @@ text-decoration-skip-ink: none;
     width: 587px;
 height: 30px;
 margin: 0;
-font-family: Lato;
+font-family: 'Lato',sans-serif;
 font-size: 20px;
 font-weight: 400;
 line-height: 30px;
@@ -175,7 +164,7 @@ text-decoration-skip-ink: none;
 #ttext2-2{
     width: 587px;
 height: 66px;
-font-family: Lato;
+font-family: 'Lato', serif;
 font-size: 14px;
 font-weight: 400;
 line-height: 22px;
@@ -194,7 +183,7 @@ text-decoration-skip-ink: none;
     width: 587px;
 height: 30px;
 margin: 0;
-font-family: Lato;
+font-family: 'Lato', serif;
 font-size: 20px;
 font-weight: 400;
 line-height: 30px;
@@ -206,7 +195,7 @@ text-decoration-skip-ink: none;
 #ttext3-2 {
     width: 587px;
 height: 66px;
-font-family: Lato;
+font-family: 'Lato', serif;
 font-size: 14px;
 font-weight: 400;
 line-height: 22px;
@@ -226,7 +215,7 @@ text-decoration-skip-ink: none;
     width: 587px;
     height: 30px;
     margin: 0;
-    font-family: Lato;
+    font-family: 'Lato', serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 30px;
@@ -237,7 +226,7 @@ text-decoration-skip-ink: none;
 #ttext4-2 {
     width: 587px;
     height: 66px;
-    font-family: Lato;
+    font-family: 'Lato', serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 22px;
@@ -273,7 +262,7 @@ padding-top: 372px;
     width: 587px;
     margin: 0;
 height: 148px;
-font-family: Lora;
+font-family: 'Lora', sans-serif;
 font-size: 64px;
 font-weight: 400;
 line-height: 74px;
@@ -285,7 +274,7 @@ text-decoration-skip-ink: none;
 #textheroframe2-1-2 {
     width: 587px;
 height: 170px;
-font-family: Lato;
+font-family: 'Lato', sans-serif;
 font-size: 14px;
 font-weight: 400;
 line-height: 22px;
@@ -302,7 +291,7 @@ padding-left: 8px;
 border-radius: 24px ;
 }
 #imgheroframe2-2 {
-    width: 692px;
+    width: 684px;
 height: 800px;
 margin-left: 0.5px;
 border-radius: 24px;
